@@ -1,0 +1,46 @@
+html{
+    color: solid darkgrey;
+    text-align: center;
+}
+
+head{
+    text-decoration: underline;
+    font-family: monospace;
+    font-size: 10px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+body{
+    background-color: bisque;
+    background-repeat: no-repeat;
+    border-color: blue;
+
+}
+.h1{
+    color: red;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+button{
+    color: red;
+    background-color: cornflowerblue;
+    padding: 8px;
+    border-width: 5px;   
+}
+
+label{
+    color: cyan;
+}
+
+button{
+    color: indigo;
+}
+
+div{
+    color: darkblue;
+}
+.list{
+    text-align: center;
+}
